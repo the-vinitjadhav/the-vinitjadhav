@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/the_vinitjadhav" target="blank"><img src="https://img.shields.io/twitter/follow/the_vinitjadhav?logo=twitter&style=for-the-badge" alt="the_vinitjadhav" /></a> </p>
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning in **MIT-ADT** **University**
 
 - 📫 How to reach me **linktr.ee/the_vinitjadhav**
 
